@@ -1,4 +1,4 @@
-# matrix-multiplication
+### matrix-multiplication
 
 Для того, чтобы умножить булевы матрицы нужно:
 
